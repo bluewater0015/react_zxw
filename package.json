@@ -1,0 +1,34 @@
+{
+  "name": "aa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^0.28.2",
+    "file-loader": "^0.11.1",
+    "jquery": "^3.2.1",
+    "less": "^2.7.2",
+    "less-loader": "^4.0.3",
+    "open-browser-webpack-plugin": "0.0.5",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-redux": "^5.0.5",
+    "react-router-dom": "^4.1.1",
+    "reactjs-swiper": "0.0.0",
+    "redux": "^3.6.0",
+    "style-loader": "^0.18.1",
+    "swiper": "^3.4.2",
+    "webpack": "^2.6.0",
+    "webpack-dev-server": "^2.4.5"
+  }
+}
